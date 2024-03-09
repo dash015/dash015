@@ -1,3 +1,4 @@
+![logo](https://piyush061990.io/)
 <h1 align="center">Hi 👋, I'm Dasharath Gholap</h1>
 <h3 align="center">A passionate data professional from India</h3>
 
